@@ -1,0 +1,27 @@
+
+{
+    "config": {
+        "step": {
+            "user": {
+                "data": {
+                    "api_key": "Solcast API key",
+                    "resource_id": "Solcast rooftop id",
+                    "name": "Name"
+                },
+                "description": "Fill in the data of your solar panels."
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "init": {
+                "data": {
+                    "api_key": "Solcast API key",
+                    "resource_id": "Solcast rooftop id",
+                    "name": "Name"
+                },
+                "description": "These values allow tweaking the Solcast Integration."
+            }
+        }
+    }
+}

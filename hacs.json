@@ -1,0 +1,9 @@
+{
+    "name": "Solcast PV Forecasts",
+    "render_readme": false,
+    "domains": [
+        "sensor"
+    ],
+    "homeassistant": "2022.4.0",
+    "iot_class": "cloud_poll"
+}
